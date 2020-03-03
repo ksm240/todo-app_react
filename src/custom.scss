@@ -1,0 +1,10 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+.complete {
+  background: $gray-200;
+
+  span {
+    text-decoration: line-through;
+    color: $gray-500;
+  }
+}
